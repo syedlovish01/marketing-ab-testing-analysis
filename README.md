@@ -56,3 +56,10 @@ Companies invest heavily in marketing campaigns but often lack clarity on which 
 
 ## 📈 Conclusion
 This project demonstrates that marketing success depends more on optimization and execution than on simply choosing different channels or campaign types.
+
+---
+
+## 👨‍💻 Author
+**Lovish Haider**  
+BSc International Business Information Systems  
+Aspiring Data Scientist
