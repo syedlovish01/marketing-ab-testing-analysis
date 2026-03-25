@@ -23,10 +23,12 @@ Companies invest heavily in marketing campaigns but often lack clarity on which 
 ---
 
 ## 📂 Dataset
-Dataset sourced from Kaggle:  
-🔗 *(paste your dataset link here)*  
+### 📥 How to Use
 
-**Note:** Dataset is not included in this repository due to size limitations.
+1. Download or clone this repository  
+2. Extract the ZIP file  
+3. Place the extracted CSV file in the project directory  
+4. Update the file path in the notebook if necessary 
 
 ---
 
